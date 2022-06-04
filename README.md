@@ -1,4 +1,4 @@
-## Hi there <img width="40px" src="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FILLO_Diamond_L_Solo.gif?v=1618852786776" />
+## Hi there <img width="40" src="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FILLO_Diamond_L_Solo.gif?v=1618852786776" />
 
 - 👋 I’m Dirceu Pauka Junior
 - 👀 I’m interested in Programming Languages, IoT, NLP and Machine Learning
