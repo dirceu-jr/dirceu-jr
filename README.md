@@ -1,8 +1,8 @@
 ## Hello I'm Dirceu Pauka Junior
 
-- 👀 I’m interested in Programming Languages, IoT, NLP and Machine Learning
-- 💞️ I’m looking to collaborate on Air/Water Quality/Water Level Monitoring
-- :bulb: Open Innovation
+- 👀 I'm interested in Programming Languages, IoT, NLP and Machine Learning;
+- :bulb: I'm looking to collaborate on Water Pollution Detection/Localization; Water Level Monitoring;
+- :bulb: Open Innovation.
 
 <hr>
 
