@@ -1,7 +1,7 @@
 ## Hello I'm Dirceu Pauka Junior
 
 - 👀 I'm interested in Programming Languages, _IoT_, _NLP_ and Machine Learning;
-- :bulb: I'm looking to collaborate on Air/Water Pollution Detection/Location; Water Level Monitoring;
+- :bulb: I'm looking to collaborate on Air/Water Pollution Detection/Location;
 - 📡 PurpleAir Community Scientist ([view data](https://map.purpleair.com/1/mAQI/a10/p604800/cC0?select=165563));
 - 📡 Weather Underground Air Quality Data Contributor;
 - :bulb: Open Innovation.
