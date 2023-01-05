@@ -1,4 +1,4 @@
-- I’m currently working on self service kiosk of Smart Fit;
+- 👨‍🔬 I’m currently working on self service kiosk of Smart Fit;
 - 👀 I’m interested in modern programming languages, _IoT_ and Machine Learning;
 - :bulb: I’m looking to [collaborate](https://github.com/dirceu-jr/ambient-water-quality) on Air/Water Pollution Detection/Location;
 - 📡 Weather Underground Air Quality Data Contributor;
