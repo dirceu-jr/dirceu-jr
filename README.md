@@ -4,4 +4,4 @@
 - 📡 Weather Underground Air Quality Data Contributor;
 - 📡 PurpleAir Community Scientist ([view data](https://map.purpleair.com/1/mAQI/a10/p604800/cC0?select=165563));
 - :bulb: Open Innovation;
-- 🌳 Environment;
+- 🌳 Environmentalist;
