@@ -1,4 +1,4 @@
-- 👨‍💻 I’m interested in modern programming languages, Gen AI, _IoT_ and Machine Learning;
+- 👨‍💻 I’m interested in modern programming languages, AI, _IoT_ and ML;
 - 📡 Weather Underground Air Quality Data Contributor;
 - 📡 PurpleAir Community Scientist ([view data](https://map.purpleair.com/1/mAQI/a10/p604800/cC0?select=165563));
 - 👨‍💻 Applied Artificial Intelligence Student @ [PUCPR](https://pucpr.br/);
